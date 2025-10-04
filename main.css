@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    overflow: hidden;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.element {
+    float: left;
+    margin-right: 20px;
+}
+
+.icon {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+video {
+    width: 400px;
+    padding: 25px;
+    margin: 15px;
+    background-color: black;
+    border: 2px white solid;
+    box-shadow: 10px 10px 5px black;
+}
+
+.footer-img img { 
+    text-align: center;
+    width: 120px;
+    margin-top: 8px;
+}
+
+.footer-img p { 
+    text-align: center;
+    margin-top: 8px;
+}
+
+.footer-left {
+    text-align: left;
+}
